@@ -1,4 +1,4 @@
-# -Achievement-3-SQL-project
+# -Achievement-3-SQL-Stealthbuster
 ***Rockbuster Stealth LLC***, a former global leader in movie rentals, is transitioning to an online video rental service to remain competitive in the face of industry giants like Netflix and Amazon Prime. With a rich catalog of existing movie licenses, Rockbuster aims to leverage its resources to establish itself in the rapidly evolving online entertainment market. As part of the Business Intelligence (BI) team, your role is to analyze the company’s data and provide actionable insights that will inform the strategic decisions needed for a successful launch.
 
 **The project involves several key steps** 
